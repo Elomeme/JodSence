@@ -49,6 +49,7 @@
   - **UI交互**: `Marked.js` (用于Markdown渲染), 动态DOM操作
 
 ## 📁 项目结构
+```bash
 LLM_project/
 ├── langserve-api/         # 后端 FastAPI & LangChain 服务
 │   ├── chain_wrapper/     # 核心AI链和工作流逻辑
@@ -66,7 +67,7 @@ LLM_project/
 │   └── resume-maker.html
 ├── main.js            # Express 服务器入口
 └── users.db           # 本地用户数据库 (SQLite)
-
+```
 
 ## ⚡ 快速开始
 
