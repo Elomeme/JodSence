@@ -2,8 +2,6 @@
 欢迎了解 JobSense ——您的一站式智能求职伙伴！
 # JobSense - 您的AI智能求职助手
 
-![JobSense Banner](![Uploading image.png…]()
-) <!-- 您可以在此替换为项目Banner图片 -->
 
 **JobSense** 是一个集成了大型语言模型（LLM）的智能求职辅助平台，旨在为求职者提供从简历创建、评估、求职咨询到面试模拟的全流程AI支持。
 
