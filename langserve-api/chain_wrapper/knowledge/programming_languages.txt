@@ -1,0 +1,11 @@
+# 编程语言
+
+## Python
+- 优点: 语法简洁、生态丰富、应用广泛 (Web开发, 数据科学, AI)
+- 缺点: 运行速度相对较慢 (可通过C扩展等优化)
+- 关键库: NumPy, Pandas, TensorFlow, PyTorch, Django, Flask
+
+## JavaScript
+- 优点: 前后端通吃 (Node.js), 浏览器原生支持, 社区庞大
+- 缺点: 语言本身设计存在一些槽点 (通过TypeScript可改善)
+- 关键框架: React, Vue, Angular, Express.js

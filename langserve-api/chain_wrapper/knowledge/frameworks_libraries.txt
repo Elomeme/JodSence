@@ -1,0 +1,11 @@
+# 框架和库
+
+## React
+- 用于构建用户界面的JavaScript库
+- 特点: 组件化、虚拟DOM、单向数据流
+- 生态: Redux, React Router, Next.js
+
+## Spring Boot
+- 用于简化Spring应用开发的Java框架
+- 特点: 自动配置、约定大于配置、内嵌服务器
+- 生态: Spring Cloud, Spring Data, Spring Security
